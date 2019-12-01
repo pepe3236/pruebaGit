@@ -18,10 +18,10 @@ h1{
     color: darkblue;
     margin-top: 20px;
 }
-/*#region pasado*/
 
-/*
-@media(min-width:580px){
+
+
+@media(min-width:600px){
 .titular{
     width: 100%;
     margin: auto;
@@ -41,7 +41,7 @@ h1{
 .logo{
 
     width: 250px;
-    padding: 10px;
+    padding: 2px;
     flex-direction: row;
     align-self: flex-start;
 }
@@ -72,7 +72,6 @@ h1{
 
     .item{
         flex-direction: row ;
-        flex-wrap: wrap;
         margin: 10px;
         height: 250px;
     }
@@ -97,8 +96,7 @@ h1{
     flex: initial;
     width: 300px;
   }
-*/
-/*#endregion pasado*/
+
 
 
 .titular-container {
